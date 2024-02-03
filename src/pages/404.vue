@@ -1,15 +1,9 @@
-<template>
-  <div>
-    <RouterView />
-  </div>
-</template>
+<template><div></div></template>
 
 <script lang="ts">
 import { defineComponent } from "vue";
 
 export default defineComponent({
-  name: "App",
+  name: "404NotFound",
 });
 </script>
-
-<style></style>
